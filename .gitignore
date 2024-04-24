@@ -1,0 +1,28 @@
+#
+node_modules/
+#fichiers de configuration locaux
+.env
+.vscode
+=======
+# Node modules
+node_modules/
+
+# Fichiers de configuration locaux
+.env
+
+# Fichiers de logs
+logs/
+*.log
+
+# Fichiers de build
+/build
+
+# MacOS
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Cache files
+.cache/

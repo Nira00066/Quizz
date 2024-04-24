@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Réponses</title>
+    <link href="result.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lilita+One&display=swap" rel="stylesheet" />
+</head>
+<body>
+    <h1 class="congratulation">Bravo !</h1>
+    <section class="correction">
+        <section class="Qtitle">
+            <h2>Questions :</h2>
+            <section class="questions" id="questions-list">
+                <!-- Questions will be dynamically added here -->
+            </section>
+        </section>
+        <section class="UAtitle">
+            <h2>Vos Réponses :</h2>
+            <section class="userAnswers" id="user-answers">
+                <!-- User answers will be dynamically added here -->
+            </section>
+        </section>
+        <section class="CAtitle">
+            <h2>Correction :</h2>
+            <section class="correctAnswers" id="correct-answers">
+                <!-- Correct answers will be dynamically added here -->
+            </section>
+        </section>
+        <section class="score" id="score-section">
+            <h2>Score :</h2>
+            <p id="score">0</p>
+        </section>
+    </section>
+    <footer>
+        <a href="/" class="return">Retour au menu</a>
+    </footer>
+
+    <!-- Inclure les scripts à la fin du body -->
+    <script src="script.js"></script>
+    <script src="result.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+Body{
+    background-color: #F5EFE6;
+}
+
+header {
+    background-color: #26474E;
+    border-radius:6px;
+    height:7rem;
+}
+
+.title {
+    margin:auto;
+    margin-bottom: 12rem;
+    padding: 2rem;
+    display:flex;
+    width: 11rem;
+    font-family:"Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#F5EFE6;
+   
+}
+
+.theme1, .theme2, .theme3 {
+    display: flex;
+    margin: auto;
+    justify-content: center; 
+    font-family: "Lilita One", sans-serif;
+    background-position: center;
+    background-size: contain;
+    font-weight: 400;
+    font-style: normal;
+    border: 3.4px solid ;
+    border-radius: 6px;
+    padding : 2rem;
+    width:9.8rem;
+    height: 5.2rem;
+
+}
+.theme-container{
+    display: flex;
+    margin: auto;
+    margin-bottom: 5rem;
+    margin-top: 3rem;
+    gap: 12rem;
+}
+
+.themes {
+    display:flex;
+    gap : 2rem;
+    margin: auto;
+    flex-direction: column;
+
+
+}
+
+.theme1{
+    background-image: url("../assets/cinéma.jpeg");
+}
+
+.theme2{
+    background-image: url("../assets/jeuxvideo.jpeg");
+}
+
+.theme3{
+    background-image: url("../assets/automobile.jpeg");
+}
+
+.theme1:hover {
+
+transform: scale(1.04)
+}
+
+.theme2:hover {
+
+transform: scale(1.04)    
+}
+
+.theme3:hover {
+
+transform: scale(1.04)
+        
+}

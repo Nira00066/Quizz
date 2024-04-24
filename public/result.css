@@ -1,0 +1,123 @@
+body{
+
+    background-color: #F5EFE6;
+}
+
+.congratulation{
+
+
+text-align: center;
+margin: auto;
+padding: 2rem;
+
+width: 26rem;
+
+background-color: #26474E;
+
+border: solid;
+border-radius: 6px;
+
+color: #F5EFE6;
+
+
+font-family:"Lilita One", sans-serif;
+    font-weight: 400;
+    font-size: 8rem;
+    font-style: normal;
+
+}
+
+.return {
+display: flex;
+
+text-decoration: none;
+text-align: center;
+justify-content: center;
+align-items: center;
+font-family: "inter";
+font-size: large;
+
+margin: auto;
+margin-top: 4rem;
+
+width: 16rem;
+height: 4rem;
+
+color: #F5EFE6;
+border: solid;
+border-radius: 6px;
+
+background-color: #26474E;
+
+}
+
+.return:hover {
+    background-color:#486f77
+    
+}
+
+.correction {
+
+    display: flex;
+    border: solid;
+    border-radius: 6px;
+    padding: 2rem;
+
+    justify-content: space-around;
+
+    margin: auto;
+    margin-top: 3rem;
+
+    background-color:#26474E;
+    background: radial-gradient(#486f77, #26474E);
+    
+}
+
+.Qtitle {
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.UAtitle {
+
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+    margin: auto;
+  
+}
+
+.CAtitle {
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.score{
+   
+    display: flex;
+    padding: 2rem;
+    color:#F5EFE6;
+    font-family: "Lilita One";
+    font-weight: 200;
+    align-items: center;
+
+    p{
+        font-weight: 600;
+        font-size: x-large;
+        padding: 0.5rem;
+        
+    }
+
+}
+
+.Qtitle, .UAtitle, .CAtitle{
+
+    color:#F5EFE6;
+    font-family: "Lilita One";
+    font-size: smaller;
+
+}

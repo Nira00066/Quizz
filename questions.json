@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "question": "Qui a réalisé le film Inception ?",
+        "options": [
+            "Christopher Nolan",
+            "Steven Spielberg",
+            "Quentin Tarantino",
+            "Martin Scorsese"
+        ],
+        "answer": "Christopher Nolan",
+        "theme": "cinema",
+        "picture_url": "assets/inception.webp"
+    },
+    {
+        "id": 2,
+        "question": "Quel acteur joue le rôle de Neo dans le film Matrix ?",
+        "options": [
+            "Keanu Reeves",
+            "Brad Pitt",
+            "Leonardo DiCaprio",
+            "Tom Cruise"
+        ],
+        "answer": "Keanu Reeves",
+        "theme": "cinema",
+        "picture_url": "assets/matrix.jpg"
+    },
+    {
+        "id": 3,
+        "question": "Dans quel film James Cameron a-t-il introduit la technologie 3D avec succès ?",
+        "options": [
+            "Titanic",
+            "Avatar",
+            "Terminator",
+            "Aliens"
+        ],
+        "answer": "Avatar",
+        "theme": "cinema",
+        "picture_url": "assets/3d.jpg"
+    },
+    {
+        "id": 4,
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+        "options": [
+            "1917",
+            "Parasite",
+            "Joker",
+            "Once Upon a Time in Hollywood"
+        ],
+        "answer": "Parasite",
+        "theme": "cinema",
+        "picture_url": "assets/oscar.webp"
+    },
+    {
+        "id": 5,
+        "question": "Dans quel film Quentin Tarantino a-t-il introduit le personnage de Jules Winnfield ?",
+        "options": [
+            "Pulp Fiction",
+            "Reservoir Dogs",
+            "Jackie Brown",
+            "Kill Bill"
+        ],
+        "answer": "Pulp Fiction",
+        "theme": "cinema",
+        "picture_url": "assets/burger.jpg"
+    },
+    {
+        "id": 6,
+        "question": "Ferdinand Porsche était le fondateur de combien de marques automobiles ?",
+        "options": [
+            "4",
+            "3",
+            "9",
+            "1"
+        ],
+        "answer": "3",
+        "theme": "automobile",
+        "picture_url": "assets/Porsche.jpg"
+    },
+    {
+        "id": 7,
+        "question": "Volkswagen a racheté Porsche en quelle année ?",
+        "options": [
+            "2008",
+            "2000",
+            "2012",
+            "2006"
+        ],
+        "answer": "2012",
+        "theme": "automobile",
+        "picture_url": "assets/volk.jpg"
+    },
+    {
+        "id": 8,
+        "question": "Quels contructeur a le plus de victoire au total au 24h du Mans ?",
+        "options": [
+            "Porsche",
+            "Ferrari",
+            "Alpine",
+            "Lamborghini"
+        ],
+        "answer": "Porsche",
+        "theme": "automobile",
+        "picture_url": "assets/24h.jpg"
+    },
+    {
+        "id": 9,
+        "question": "Quel est le moteur qui équipe la 2CV de Citroën ?",
+        "options": [
+            "Boxer",
+            "V6",
+            "Flat-Twin",
+            "Flat-8 bi-turbo"
+        ],
+        "answer": "Flat-Twin",
+        "theme": "automobile",
+        "picture_url": "assets/Citroen.jpg"
+    },
+    {
+        "id": 10,
+        "question": "Quelle marque de voiture a produit une serie 5 ?",
+        "options": [
+            "BMV",
+            "Fiat",
+            "Toyota",
+            "Ford"
+        ],
+        "answer": "BMV",
+        "theme": "automobile",
+        "picture_url": "assets/mustang.jpg"
+    },
+    {
+        "id": 11,
+        "question": "Dans quel jeu vidéo Mario fait-il sa première apparition ?",
+        "options": [
+            "Donkey Kong",
+            "Super Mario Bros",
+            "Mario Bros",
+            "Zelda"
+        ],
+        "answer": "Donkey Kong",
+        "theme": "jeux-video",
+        "picture_url": "assets/mario.jpg"
+    },
+    {
+        "id": 12,
+        "question": "Quelle est la console la plus vendue de tous les temps ?",
+        "options": [
+            "Playstation 2",
+            "Nintendo DS",
+            "Nintendo Wii",
+            "Game Boy"
+        ],
+        "answer": "Playstation 2",
+        "theme": "jeux-video",
+        "picture_url": "assets/console.jpg"
+    },
+    {
+        "id": 13,
+        "question": "Pour quelle raison l'entreprise Valve a-t-elle sorti sa célèbre plateforme Steam ?",
+        "options": [
+            "Vendre des jeux",
+            "Mettre à jour ses jeux multijoueurs",
+            "Créer un espace de discussion en ligne",
+            "Donner des infos sur les jeux"
+        ],
+        "answer": "Mettre à jour ses jeux multijoueurs",
+        "theme": "jeux-video",
+        "picture_url": "assets/valve.jpg"
+    },
+    {
+        "id": 14,
+        "question": "La série Dragon Quest est-elle une série de ?",
+        "options": [
+            "JRPG",
+            "SRPG",
+            "CRPG",
+            "MMORPG"
+        ],
+        "answer": "JRPG",
+        "theme": "jeux-video",
+        "picture_url": "assets/dragon.jpg"
+    },
+    {
+        "id": 15,
+        "question": "De quel jeu vidéo vient la phrase \"the cake is a lie\" ?",
+        "options": [
+            "Resident Evil 4",
+            "Overcooked",
+            "Portal",
+            "Minecraft"
+        ],
+        "answer": "Portal",
+        "theme": "jeux-video",
+        "picture_url": "assets/resident.avif"
+    }
+]
